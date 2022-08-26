@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wrecless
-- 👀 I’m interested in coding, in C, C#, JavaScript etc
+- 👀 I’m interested in coding, in C, C#, JavaScript, Python, etc
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me nintah85@gmail.com
