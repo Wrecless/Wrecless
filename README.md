@@ -12,11 +12,15 @@
 
 ## About Me
 
-I am a Computer Science teacher and developer with an Army background. I build tools that solve real problems, create educational resources for KS3 to KS5, and automate anything repetitive.
+Computers have never been just a job for me. From building rigs to writing software, I have been obsessed with how technology works and what you can do with it my entire life.
 
-My philosophy: **you only stop learning when you die.**
+I have an Army background, which taught me how to lead under pressure, stay calm when things break, and actually get things done. I bring that same mindset to development: no fluff, no overthinking, just build it and make it work.
 
-Currently completing my PGCE/QTS at Birmingham Newman University while building AI-powered tools on the side.
+By day I am a Computer Science teacher, which means I can break down complex problems clearly and lead people through them. By night I am building AI tools, automating workflows, and running a 3D printing business with a fleet of printers.
+
+Right now I am pushing hard into full-stack development and AI. I work fast, I learn faster, and I do not stop until the problem is solved.
+
+**My rule: you only stop learning when you die.**
 
 ---
 
@@ -24,7 +28,7 @@ Currently completing my PGCE/QTS at Birmingham Newman University while building 
 
 - AI agents and workflow automation tools
 - Educational resources for Computer Science (quizzes, structured schemes of work, learning apps)
-- 3D printing workflows and pricing systems using a Bambu A1 Mini
+- 3D printing business with a fleet of printers, covering production, pricing, and fulfilment
 - Bridging practical technology with real classroom use
 
 ---
